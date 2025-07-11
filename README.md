@@ -37,16 +37,14 @@ If you want to play hard, this is your beast.
 ```bash
 pip install mechanize requests futures bs4 rich
 
-
----
+```
 
 📥 INSTALLATION
-
+```bash
 git clone https://github.com/Elite-Black-hats/MikoClone.git
 cd MikoClone
 pip install mechanize requests futures bs4 rich
-
----
+```
 
 ⚙️ USAGE
 
