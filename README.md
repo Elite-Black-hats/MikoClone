@@ -50,7 +50,7 @@ pip install mechanize requests futures bs4 rich
 
 Launch the beast with:
 ```bash
-python mikocloner.py
+python miko_cloner.py
 ```
 Once started, you’ll see a ruthless menu:
 
