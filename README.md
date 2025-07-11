@@ -49,9 +49,9 @@ pip install mechanize requests futures bs4 rich
 ⚙️ USAGE
 
 Launch the beast with:
-
+```bash
 python mikocloner.py
-
+```
 Once started, you’ll see a ruthless menu:
 
 [1] RANDOM NUMBER CLONE  
